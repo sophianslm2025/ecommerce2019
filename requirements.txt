@@ -1,0 +1,9 @@
+mysql-connector-python
+SQLAlchemy
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+tensorflow~=2.10  # ou adapté à ton GPU
+joblib
